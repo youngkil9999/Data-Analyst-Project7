@@ -79,6 +79,9 @@ Recommendation
 
 Make a recommendation and briefly describe your reasoning.
 Gross conversion behaved as expected. The number of students who enrolled the free trial decreased. But Net conversion is hard to say that met the expectation because the number of students who paid their class might be decreased in some cases.
+
+![alt tag](https://github.com/youngkil9999/Project7/blob/pt3/p1.png)
+
 We expected gross conversion would decrease and net conversion maintained. Net conversion could be below the negative of the confidential intervals. So, it couldn’t meet our expectation at least net conversion needed to be maintained.
 Not launch the change yet. Needed more test for net conversion.
 Net conversion needed more test I think. The result for the net conversion presented not that much affected by the change.
